@@ -1,3 +1,5 @@
+https://github.com/RabeyaSikder0/FoodListAnimation/assets/147448680/2a0f5ddc-cce2-4123-8ae3-d56832412067
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
